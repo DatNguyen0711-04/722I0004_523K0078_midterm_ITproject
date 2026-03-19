@@ -1,0 +1,24 @@
+==================================================
+APPLICANT CV ANALYSIS REPORT
+==================================================
+
+Candidate: Nguyen Thanh Dat
+Applied Role: Software Engineer
+Match Score: 85%
+Status: STRONG MATCH
+
+Matched Skills:
+  - Python
+  - SQL
+  - Database
+  - System Design
+  - Microservices
+
+Open Positions:
+  Software Engineer: 5 remaining
+  Data Analyst: 2 remaining
+  Mobile Dev: 3 remaining
+
+==================================================
+Report generated: 2026-03-12 14:50:26
+==================================================
